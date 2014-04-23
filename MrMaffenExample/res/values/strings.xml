@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+	<string name="app_name">Mr Maffen Example</string>
+	
+	<string name="drawer_open">Open navigation drawer</string>
+	<string name="drawer_close">Close navigation drawer</string>
+	
+	<string name="frag_feed">Feed</string>
+	<string name="frag_favorites">Favorites</string>
+	<string name="frag_charts">Charts</string>
+	
+	<string name="nav_albums">Albums</string>
+	<string name="nav_artists">Artists</string>
+	<string name="nav_songs">Songs</string>
+	
+</resources>
